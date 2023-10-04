@@ -1,0 +1,26 @@
+
+.my-col1{
+    background-color: aqua;
+    border: 1px solid black;
+    height: 150px;
+}
+.my-col2{
+    background-color: blue;
+    border: 1px solid black;
+    height: 150px;
+}
+.my-col3{
+    background-color: brown;
+    border: 1px solid black;
+    height: 150px;
+}
+.my-col4{
+    background-color: chartreuse;
+    border: 1px solid black;
+    height: 150px;
+}
+.my-col5{
+    background-color: darkmagenta;
+    border: 1px solid black;
+    height: 150px;
+}
